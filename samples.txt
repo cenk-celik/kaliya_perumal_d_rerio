@@ -1,0 +1,13 @@
+sample,experiment,run
+Control_01,Ctrl,fastq_1
+Control_02,Ctrl,fastq_2
+Control_03,Ctrl,fastq_3
+SingInj_01,SI,fastq_4
+SingInj_02,SI,fastq_5
+SingInj_03,SI,fastq_6
+Multinj_01,MI,fastq_7
+Multinj_02,MI,fastq_8
+Multinj_03,MI,fastq_9
+D5Multinj01,D5MI,fastq_10
+D5Multinj02,D5MI,fastq_11
+D5Multinj03,D5MI,fastq_12
