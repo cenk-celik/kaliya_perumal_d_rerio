@@ -26,7 +26,7 @@ Using this [script](scripts/deseq2results.r), we observed differentially express
 
 For over-representation and gene set enrichment analysis (GSEA), we utilised [```clusterProfiler```](http://bioconductor.org/packages/release/bioc/html/clusterProfiler.html) (v 4.6.0), [```enrichplot```](http://bioconductor.org/packages/release/bioc/html/enrichplot.html) (v 1.18.3) and [```DOSE```](http://bioconductor.org/packages/release/bioc/html/DOSE.html) (v 3.24.2) packages for [Gene Ontology](scripts/gene_ontology.r) analyses, as well as [```ReactomePA```](http://bioconductor.org/packages/release/bioc/html/ReactomePA.html) (v 1.42.0) for [Reactome](scripts/reactome.r) analysis.
 
-Step 6: KEGG pathway analysis
+## Step 6: KEGG pathway analysis
 
 Similar to Gene Ontology analysis, we also looked at [```KEGG```](https://www.kegg.jp) pathways for several candidate pathways. The script can be found [here](scripts/kegg.r).
 
