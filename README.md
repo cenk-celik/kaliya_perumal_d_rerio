@@ -1,6 +1,6 @@
 # Introduction
 
-This repository describes step-by-step RNA sequencing (RNA-seq) analysis conducted in zebrafish (_Danio rerio_) by Kaliya-Perumal _et al._ (2023), where zebrafish were exposed to muscle injury as follows: (i) single injury (SI), (ii) multiple injuries (MI), and (iii) multiple injuries at a later time point (day 5; D5MI). The transcriptomes from these conditions with three replicates were compared with the zebrafish transcriptome without any injury, serving as the control.
+This repository describes step-by-step RNA sequencing (RNA-seq) analysis conducted in zebrafish (_Danio rerio_) by Kaliya-Perumal _et al._ (2024) [biorxiv](https://doi.org/10.1101/2024.02.09.579618), where zebrafish were exposed to muscle injury as follows: (i) single injury (SI), (ii) multiple injuries (MI), and (iii) multiple injuries at a later time point (day 5; D5MI). The transcriptomes from these conditions with three replicates were compared with the zebrafish transcriptome without any injury, serving as the control.
 
 # RNA-seq steps
 ## Step 1: Obtaining count matrices
