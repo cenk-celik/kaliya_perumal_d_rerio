@@ -140,7 +140,7 @@ lapply(
                            c('D5MI', 'Ctrl')),
         label = 'p.format',
         ref.group = 'Ctrl',
-        method = 't.test'
+        method = 'wilcox.test'
         )
     dev.off()
   }
